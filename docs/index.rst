@@ -13,7 +13,7 @@ Hotmail, now known as Outlook.com, is one of the most widely used email services
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://tek.chat/
+   :target: https://aclogportal.com/hotmail-login
 
 Despite the transition to the Outlook brand in 2012, Hotmail remains an essential part of Microsoft’s email ecosystem. Whether you're using Hotmail for personal communication, professional use, or as a gateway to other Microsoft services, logging into your Hotmail account is an essential step to access your emails, contacts, calendar, and more.
 
